@@ -1,6 +1,6 @@
 # Login page
 
-<img src="./assets/img/one_page.png" alt="wallpaper do projeto ignite feed" />
+<img src="./assets/img/login.png" alt="wallpaper do projeto ignite feed" />
 
 Projeto simples para consolidar conhecimentos de html, css e javaScript.
 
